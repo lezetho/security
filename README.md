@@ -23,3 +23,12 @@ This honestly might be the biggest question yet. There are hundreds of people wh
 
 **How to block DDoS attacks from my domain using Cloudflare?**
 Now, there's a series of ways to start off. Let's go from the basics.
+
+> [!WARNING]
+> 
+> READ THIS BEFORE CONTINUING!
+> ---
+>
+> Using this Cloudflare rule may break your website(s) if you do not set it up properly. If you notice your website(s) suddenly breaking disable this rule immidiently or whitelist the IP in WAF.
+> This rule is still in development and is not perfect yet.
+
